@@ -24,6 +24,8 @@
 
 ### Week One | Video Walkthroughs
 
+[Lesson 1.1 - My first HTML](https://www.youtube.com/watch?v=ieb6Svbc10E)
+
 -----------------------------------------
 
 ### Week One | Slide Deck
