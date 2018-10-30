@@ -14,6 +14,13 @@
 * To understand the value of Git version control
 * To gain initial exposure to the concept of "adding, committing, and pushing" code to GitHub
 
+#### Day Two: Class Objectives
+
+* To gain initial exposure to HTML/CSS and how the two are linked using element selectors
+* To become comfortable working with HTML relative paths
+* To begin to use floats for positioning of elements
+
+
 ### Week One | Activities
 
 #### Day One: Activities
@@ -21,6 +28,16 @@
 * [01-ConsoleCommands](activities/day-1/01-ConsoleCommands)
 * [02-IntroToConsoleBash](activities/day-1/02-IntroToConsoleBash)
 * [03-MyFirstHTML](activities/day-1/03-MyFirstHTML)
+
+#### Day Two: Activities
+
+* [04-HTML_Git](activities/day-2/04-HTML_Git)
+* [05-BasicCSS](activities/day-2/05-BasicCSS)
+* [06-HTML_CSS_Layout](activities/day-2/06-HTML_CSS_Layout)
+* [07-RelativePaths-Activity](activities/day-2/07-RelativePaths-Activity)
+* [08-FloatExamples](activities/day-2/08-FloatExamples)
+* [09-FloatLayout-Activity](activities/day-2/09-FloatLayout-Activity)
+
 
 ### Week One | Video Walkthroughs
 
@@ -31,6 +48,7 @@
 ### Week One | Slide Deck
 
 * Day 1: [Slide Deck](resources/slide-decks/day-1)
+* Day 2: [Slide Deck](resources/slide-decks/day-2)
 
 -----------------------------------------
 
