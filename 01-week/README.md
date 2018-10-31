@@ -20,6 +20,13 @@
 * To become comfortable working with HTML relative paths
 * To begin to use floats for positioning of elements
 
+#### Day Three: Class Objectives
+
+* To recap the basic topics covered to date
+* To examine HTML/CSS for layout design and element positioning
+* To offer a conceptual introduction to CSS reset and downloadable style sheets
+* To work with Google Developer tools for site inspection
+* To utilize Github Pages for website deployment
 
 ### Week One | Activities
 
@@ -37,6 +44,16 @@
 * [07-RelativePaths-Activity](activities/day-2/07-RelativePaths-Activity)
 * [08-FloatExamples](activities/day-2/08-FloatExamples)
 * [09-FloatLayout-Activity](activities/day-2/09-FloatLayout-Activity)
+
+#### Day Three: Activities
+
+* [00-CSS_PositionedLayout](activities/day-3/10-CSS_PositionedLayout)
+* [001-CSS_Positioned_Activity](activities/day-3/11-CSS_Positioned_Activity)
+* [01-Hack-Websites](activities/day-3/01-Hack-Websites)
+* [03-MultipleCSS](activities/day-3/03-MultipleCSS)
+* [05-GithubPagesPersonal](activities/day-3/05-GithubPagesPersonal)
+* [06-GithubPagesProject](activities/day-3/06-GithubPagesProject)
+
 
 
 ### Week One | Video Walkthroughs
