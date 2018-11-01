@@ -69,13 +69,17 @@
 * [10-WheresCSS](activities/day-4/10-WheresCSS)
 * [11-BootstrapDemo](activities/day-4/11-BootstrapDemo)
 
-
+-----------------------------------------
 
 ### Week One | Video Walkthroughs
 
 [Lesson 1.1 - My first HTML](https://www.youtube.com/watch?v=ieb6Svbc10E)
 [Lesson 1.2 - Student Bio Layout](https://youtu.be/kMBinXTCrXI)
 [Lesson 1.3 - Floats in CSS](https://youtu.be/0lpxKw6E90Y)
+[Positioning in CSS](https://youtu.be/sHfJn0jqBro)
+[CSS Positioning Layout](https://youtu.be/yWXgnQaWSW0)
+[Bootstrap Positioning Layout](https://www.youtube.com/watch?v=Y9rMbKHoTBI)
+[Bootstrap Text Layout](https://www.youtube.com/watch?v=wQovwgW020g)
 
 -----------------------------------------
 
