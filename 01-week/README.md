@@ -28,6 +28,13 @@
 * To work with Google Developer tools for site inspection
 * To utilize Github Pages for website deployment
 
+#### Day Four: Class Objectives
+
+* To work with CSS properties used for adjusting a website's typography
+* To utilize custom fonts provided from Google Fonts
+* To work with CSS pseudo classes to style elements based on special states
+* To utilize the Bootstrap CSS framework for website development
+
 ### Week One | Activities
 
 #### Day One: Activities
@@ -54,6 +61,14 @@
 * [05-GithubPagesPersonal](activities/day-3/05-GithubPagesPersonal)
 * [06-GithubPagesProject](activities/day-3/06-GithubPagesProject)
 
+#### Day Four: Activities
+
+* [07-CSSTypography](activities/day-5/07-CSSTypography)
+* [08-GoogleFontDemo](activities/day-4/08-GoogleFontDemo)
+* [09-Pseudoclass](activities/day-4/09-Pseudoclass)
+* [10-WheresCSS](activities/day-4/10-WheresCSS)
+* [11-BootstrapDemo](activities/day-4/11-BootstrapDemo)
+
 
 
 ### Week One | Video Walkthroughs
@@ -68,6 +83,8 @@
 
 * Day 1: [Slide Deck](resources/slide-decks/day-1)
 * Day 2: [Slide Deck](resources/slide-decks/day-2)
+* Day 3: [Slide Deck](resources/slide-decks/day-3)
+* Day 4: [Slide Deck](resources/slide-decks/day-4)
 
 -----------------------------------------
 
@@ -76,6 +93,8 @@
 Part One- Issued 10/29/2018 | **DUE 11/01/2018** | [Part 1](homework/part-1)
     * Build Your Portfolio Page (Recommended Homework)
     * Build A Wireframe Layout (Easier Homework)
+Part Two - Issued 04/19/2018 | **DUE 11/05/2018** | [Part 2](homework/part-2)
+    * Responsiveness Assignment
 
 
 ### Week One | Helpful Links
