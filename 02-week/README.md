@@ -14,6 +14,11 @@
 * To utilize variables, logging, arrays, and if/else statements to create simple JavaScript applications.
 * To understand the use and syntax of JavaScript's **for loops**.
 
+#### Day Two: Class Objectives
+
+* To use for loops, arrays, and conditional logic to create a rock-paper-scissors game.
+
+
 -----------------------------------------
 
 ### Week Two | Activities
@@ -39,15 +44,28 @@
 * [17-MyFirstLoop](activities/day-1/17-MyFirstLoop)
 * [18-ZooLoop](activities/day-1/18-ZooLoop)
 
+#### Day Two: Activities
+
+* [21-Events](activities/day-2/21-Events)
+* [22-PseudoCode](activities/day-2/22-PseudoCode)
+* [23-RPS-Coded](activities/day-2/23-RPS-Coded)
+* [24-Recap](activities/day-2/24-Recap)
+* [25-LoopTV](activities/day-2/25-LoopTV)
+* [26-SuperheroLogging](activities/day-2/26-SuperheroLoggingp)
+* [27-MyFirstFunctions](activities/day-2/27-MyFirstFunctions)
+
 -----------------------------------------
 
 ### Week Two | Video Walkthroughs
+* [Homework #2 - My bootstrap themed portfolio!](https://youtu.be/C3cMAcsv1Lg)
+* [Homework #2 - My responsive portfolio](https://youtu.be/jF0kIhpX6tk)
 
 -----------------------------------------
 
 ### Week Two | Slide Deck
 
 * Day 1: [Slide Deck](resources/slide-decks/day-1)
+* Day 2: [Slide Deck](resources/slide-decks/day-2)
 
 -----------------------------------------
 
