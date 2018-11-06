@@ -23,11 +23,19 @@
          span exists when we try to access it. -->
     <script type="text/javascript">
       // Let's start by grabbing a reference to the <span> below.
-      var userText = document.getElementById("user-text");
+      // var userText = document.getElementById("user-text");
+      var colors = ['red', 'orange', 'green', 'purple', 'blue', 'pink']
+      var userText = document.querySelector("#user-text");
+      var jumbo = document.querySelector(".jumbotron");
+      
 
       // Next, we give JavaScript a function to execute when onkeyup event fires.
       document.onkeyup = function(event) {
+        var chosenColor = colors[Math.floor(Math.random() * 6)];
         userText.textContent = event.key;
+        jumbo.setAttribute('style', `background-color: ${chosenColor};`)
+        jumbo.setAttribute('class', "chicken")
+        console.log(event.key)
       };
     </script>
   </body>
