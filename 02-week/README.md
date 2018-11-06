@@ -59,6 +59,8 @@
 ### Week Two | Video Walkthroughs
 * [Homework #2 - My bootstrap themed portfolio!](https://youtu.be/C3cMAcsv1Lg)
 * [Homework #2 - My responsive portfolio](https://youtu.be/jF0kIhpX6tk)
+* [Lesson 3.2 - Rock, Paper, Scissors](https://youtu.be/Tio88WjwFO0)
+* [Lesson 3.2 - Zoo Loop!](https://youtu.be/zJO9g7S2_Xo)
 
 -----------------------------------------
 
