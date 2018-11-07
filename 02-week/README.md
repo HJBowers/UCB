@@ -78,6 +78,7 @@
 * [Homework #2 - My responsive portfolio](https://youtu.be/jF0kIhpX6tk)
 * [Lesson 3.2 - Rock, Paper, Scissors](https://youtu.be/Tio88WjwFO0)
 * [Lesson 3.2 - Zoo Loop!](https://youtu.be/zJO9g7S2_Xo)
+* [Lesson 3.3 - Car Adventures!](https://youtu.be/jtU6YrNPv7E)
 
 -----------------------------------------
 
