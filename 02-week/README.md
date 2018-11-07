@@ -18,6 +18,12 @@
 
 * To use for loops, arrays, and conditional logic to create a rock-paper-scissors game.
 
+#### Day Three: Class Objectives
+
+* To gain an understanding of JavaScript Functions and Objects.
+* To begin utilizing the basic JavaScript learned so far to build simple JavaScript games.
+
+
 
 -----------------------------------------
 
@@ -54,6 +60,17 @@
 * [26-SuperheroLogging](activities/day-2/26-SuperheroLoggingp)
 * [27-MyFirstFunctions](activities/day-2/27-MyFirstFunctions)
 
+#### Day Three: Activities
+
+* [28-GoodArray](activities/day-3/28-GoodArray)
+* [29-JoanOfArcArrays](activities/day-3/29-JoanOfArcArrays)
+* [30-GandalfTheGreyObjects](activities/day-3/30-GandalfTheGreyObjects)
+* [31-MyFirstObject](activities/day-3/31-MyFirstObject)
+* [32-CarGame](activities/day-3/32-CarGame)
+* [33-Scope](activities/day-3/33-Scope)
+* [34-QuestionGame](activities/day-3/34-QuestionGame)
+
+
 -----------------------------------------
 
 ### Week Two | Video Walkthroughs
@@ -68,7 +85,7 @@
 
 * Day 1: [Slide Deck](resources/slide-decks/day-1)
 * Day 2: [Slide Deck](resources/slide-decks/day-2)
-
+* Day 3: [Slide Deck](resources/slide-decks/day-3)
 -----------------------------------------
 
 ### Week Two Homework
