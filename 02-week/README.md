@@ -23,6 +23,11 @@
 * To gain an understanding of JavaScript Functions and Objects.
 * To begin utilizing the basic JavaScript learned so far to build simple JavaScript games.
 
+#### Day Four: Class Objectives
+
+* To gain a cursory understanding of the jQuery library.
+* To understand the steps needed to utilize the jQuery library to manipulate the DOM.
+* To use jQuery DOM manipulation to create simple games.
 
 
 -----------------------------------------
@@ -70,6 +75,20 @@
 * [33-Scope](activities/day-3/33-Scope)
 * [34-QuestionGame](activities/day-3/34-QuestionGame)
 
+#### Day Four: Activities
+
+* [01-JSGenerators](activities/day-4/01-JSGenerators)
+* [02-JSDrinkList](activities/day-4/02-JSDrinkList)
+* [03-jQueryGenerators](activities/day-4/03-jQueryGenerators)
+* [04-jQueryDrinkList](activities/day-4/04-jQueryDrinkList)
+* [05-OnClickBasic](activities/day-4/05-OnClickBasic)
+* [06-SandwichClick](activities/day-4/06-SandwichClick)
+* [07-TriggerRandom](activities/day-4/07-TriggerRandom)
+* [08-LotteryGenerator](activities/day-4/08-LotteryGenerator)
+* [09-NumberChecker](activities/day-4/09-NumberChecker)
+* [10-CaptainPlanetGame](activities/day-4/10-CaptainPlanetGame)
+* [11-FridgeGame](activities/day-4/11-FridgeGame)
+* [12-CrystalExample](activities/day-4/12-CrystalExample)
 
 -----------------------------------------
 
@@ -87,12 +106,16 @@
 * Day 1: [Slide Deck](resources/slide-decks/day-1)
 * Day 2: [Slide Deck](resources/slide-decks/day-2)
 * Day 3: [Slide Deck](resources/slide-decks/day-3)
+* Day 4: [Slide Deck](resources/slide-decks/day-4)
+
 -----------------------------------------
 
 ### Week Two Homework
 
 - Issued 11/5/2018 | **DUE 11/08/2018** | [Part 1](homework/part-1)
     * Create one of two possible computer games: Hangman or Psychic
+- Issued 11/8/2018 | **DUE 11/12/2018** | [Part 2](homework/part-2)
+    * Interactive Game with the jQuery library
 
 -----------------------------------------
 
